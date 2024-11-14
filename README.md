@@ -15,7 +15,7 @@ Execute the following command to run the analysis:
 ```bash
 spark-submit fire_calls_analysis.py sf-fire-calls.csv
 ```
-![Run Command](./images/command.png)
+
 
 ## 🔍 Analysis Questions & Results
 
